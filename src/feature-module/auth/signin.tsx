@@ -34,10 +34,7 @@ const Signin = () => {
                     <div className="card">
                       <div className="card-body">
                         <div className=" mb-4">
-                          <h2 className="mb-2">Welcome!</h2>
-                          <p className="mb-0 fs-16">
-                            Sign in to see what you’ve missed.
-                          </p>
+                          <h2 className="mb-2">Sign in</h2>
                         </div>
                         <div className="mb-3 ">
                           <label className="form-label">User Name</label>

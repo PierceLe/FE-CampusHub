@@ -29,10 +29,7 @@ const Signup = () => {
                 <div className="card">
                   <div className="card-body">
                     <div className=" mb-4">
-                      <h2 className="mb-2">Register</h2>
-                      <p className="mb-0 fs-16">
-                        Sign up to share moments with friends!
-                      </p>
+                      <h2 className="mb-2">Sign up</h2>
                     </div>
                     <div className="row">
                       <div className="col-lg-6 col-md-12">
